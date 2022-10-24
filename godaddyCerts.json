@@ -4,6 +4,12 @@
     "subscriptionstart": "2021-12-01",
     "subscriptionend": "2023-12-01",
     "certificateexpiry": "2023-12-01"
+  },
+  {
+    "subjectname": "*.mahidol.ac.th",
+    "subscriptionstart": "2021-12-01",
+    "subscriptionend": "2023-12-01",
+    "certificateexpiry": "2023-12-01"
   }
   
 ]
