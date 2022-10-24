@@ -1,20 +1,9 @@
 [
   {
     "subjectname": "*.bu.ac.th",
-    "subscriptionstart": "1-12-2021",
-    "subscriptionend": "1-12-2023",
-    "certificateexpiry": "1-12-2023"
-  },
-  {
-    "subjectname": "*.mahidol.ac.th",
-    "subscriptionstart": "5-25-2020",
-    "subscriptionend": "5-25-2023",
-    "certificateexpiry": "5-10-2023"
-  },
-  {
-    "subjectname": "*.tu.ac.th",
-    "subscriptionstart": "5-25-2022",
-    "subscriptionend": "5-25-2025",
-    "certificateexpiry": "5-10-2024"
+    "subscriptionstart": "2021-12-01",
+    "subscriptionend": "2023-12-01",
+    "certificateexpiry": "2023-12-01"
   }
+  
 ]
