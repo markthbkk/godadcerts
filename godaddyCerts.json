@@ -1,69 +1,68 @@
 [
   {
-    "subjectname": "*.bu.ac.th",
-    "subscriptionstart": "2021-01-12",
-    "subscriptionend": "2023-01-12",
-    "certificateexpiry": "2023-01-12"
+    "subjectName": "*.bu.ac.th",
+    "subscriptionStartDate": "2021-01-12",
+    "subscriptionEndDate": "2023-01-12",
+    "certificateExpiryDate": "2023-01-12"
   },
   {
-    "subjectname": "*.mahidol.ac.th",
-    "subscriptionstart": "2020-05-25",
-    "subscriptionend": "2023-05-25",
-    "certificateexpiry": "2023-05-10"
+    "subjectName": "*.mahidol.ac.th",
+    "subscriptionStartDate": "2020-05-25",
+    "subscriptionEndDate": "2023-05-25",
+    "certificateExpiryDate": "2023-05-10"
   },
   {
-    "subjectname": "*.mahidol.edu",
-    "subscriptionstart": "2020-05-25",
-    "subscriptionend": "2023-05-25",
-    "certificateexpiry": "2023-05-21"
+    "subjectName": "*.mahidol.edu",
+    "subscriptionStartDate": "2020-05-25",
+    "subscriptionEndDate": "2023-05-25",
+    "certificateExpiryDate": "2023-05-21"
   },
   {
-    "subjectname": "*.niets.ac.th",
-    "subscriptionstart": "2019-10-03",
-    "subscriptionend": "2023-10-03",
-    "certificateexpiry": "2023-10-03"
+    "subjectName": "*.niets.ac.th",
+    "subscriptionStartDate": "2019-10-03",
+    "subscriptionEndDate": "2023-10-03",
+    "certificateExpiryDate": "2023-10-03"
   },
   {
-    "subjectname": "*.ra.mahidol.ac.th",
-    "subscriptionstart": "2020-09-28",
-    "subscriptionend": "2023-09-28",
-    "certificateexpiry": "2023-09-28"
+    "subjectName": "*.ra.mahidol.ac.th",
+    "subscriptionStartDate": "2020-09-28",
+    "subscriptionEndDate": "2023-09-28",
+    "certificateExpiryDate": "2023-09-28"
   },
   {
-    "subjectname": "*.rama.mahidol.ac.th",
-    "subscriptionstart": "2020-09-21",
-    "subscriptionend": "2023-09-21",
-    "certificateexpiry": "2023-09-21"
+    "subjectName": "*.rama.mahidol.ac.th",
+    "subscriptionStartDate": "2020-09-21",
+    "subscriptionEndDate": "2023-09-21",
+    "certificateExpiryDate": "2023-09-21"
   },
   {
-    "subjectname": "*.ramahosp.org",
-    "subscriptionstart": "2019-08-19",
-    "subscriptionend": "2023-08-19",
-    "certificateexpiry": "2023-08-03"
+    "subjectName": "*.ramahosp.org",
+    "subscriptionStartDate": "2019-08-19",
+    "subscriptionEndDate": "2023-08-19",
+    "certificateExpiryDate": "2023-08-03"
   },
   {
-    "subjectname": "*.rmutr.ac.th",
-    "subscriptionstart": "2019-07-10",
-    "subscriptionend": "2023-07-10",
-    "certificateexpiry": "2023-07-10"
+    "subjectName": "*.rmutr.ac.th",
+    "subscriptionStartDate": "2019-07-10",
+    "subscriptionEndDate": "2023-07-10",
+    "certificateExpiryDate": "2023-07-10"
   },
   {
-    "subjectname": "*.thailis.or.th",
-    "subscriptionstart": "2020-03-06",
-    "subscriptionend": "2023-03-06",
-    "certificateexpiry": "2023-02-27"
+    "subjectName": "*.thailis.or.th",
+    "subscriptionStartDate": "2020-03-06",
+    "subscriptionEndDate": "2023-03-06",
+    "certificateExpiryDate": "2023-02-27"
   },
   {
-    "subjectname": "*.thairen.net.th",
-    "subscriptionstart": "2019-03-09",
-    "subscriptionend": "2023-03-09",
-    "certificateexpiry": "2023-02-28"
+    "subjectName": "*.thairen.net.th",
+    "subscriptionStartDate": "2019-03-09",
+    "subscriptionEndDate": "2023-03-09",
+    "certificateExpiryDate": "2023-02-28"
   },
   {
-    "subjectname": "www.dthai.co.th",
-    "subscriptionstart": "2021-08-17",
-    "subscriptionend": "2023-08-17",
-    "certificateexpiry": "2023-08-17"
+    "subjectName": "www.dthai.co.th",
+    "subscriptionStartDate": "2021-08-17",
+    "subscriptionEndDate": "2023-08-17",
+    "certificateExpiryDate": "2023-08-17"
   }
-  
 ]
