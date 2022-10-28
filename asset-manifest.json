@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/godadcerts/static/css/main.b5cc0f6e.chunk.css",
-    "main.js": "/godadcerts/static/js/main.b77560eb.chunk.js",
-    "main.js.map": "/godadcerts/static/js/main.b77560eb.chunk.js.map",
+    "main.css": "/godadcerts/static/css/main.a52639f0.chunk.css",
+    "main.js": "/godadcerts/static/js/main.d334d89a.chunk.js",
+    "main.js.map": "/godadcerts/static/js/main.d334d89a.chunk.js.map",
     "runtime-main.js": "/godadcerts/static/js/runtime-main.72335156.js",
     "runtime-main.js.map": "/godadcerts/static/js/runtime-main.72335156.js.map",
-    "static/js/2.af76eab9.chunk.js": "/godadcerts/static/js/2.af76eab9.chunk.js",
-    "static/js/2.af76eab9.chunk.js.map": "/godadcerts/static/js/2.af76eab9.chunk.js.map",
+    "static/js/2.7777fa48.chunk.js": "/godadcerts/static/js/2.7777fa48.chunk.js",
+    "static/js/2.7777fa48.chunk.js.map": "/godadcerts/static/js/2.7777fa48.chunk.js.map",
     "index.html": "/godadcerts/index.html",
-    "static/css/main.b5cc0f6e.chunk.css.map": "/godadcerts/static/css/main.b5cc0f6e.chunk.css.map",
-    "static/js/2.af76eab9.chunk.js.LICENSE.txt": "/godadcerts/static/js/2.af76eab9.chunk.js.LICENSE.txt"
+    "static/css/main.a52639f0.chunk.css.map": "/godadcerts/static/css/main.a52639f0.chunk.css.map",
+    "static/js/2.7777fa48.chunk.js.LICENSE.txt": "/godadcerts/static/js/2.7777fa48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72335156.js",
-    "static/js/2.af76eab9.chunk.js",
-    "static/css/main.b5cc0f6e.chunk.css",
-    "static/js/main.b77560eb.chunk.js"
+    "static/js/2.7777fa48.chunk.js",
+    "static/css/main.a52639f0.chunk.css",
+    "static/js/main.d334d89a.chunk.js"
   ]
 }
