@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/godadcerts/static/css/main.80c56064.chunk.css",
+    "main.css": "/godadcerts/static/css/main.4cab743b.chunk.css",
     "main.js": "/godadcerts/static/js/main.d334d89a.chunk.js",
     "main.js.map": "/godadcerts/static/js/main.d334d89a.chunk.js.map",
     "runtime-main.js": "/godadcerts/static/js/runtime-main.72335156.js",
@@ -8,13 +8,13 @@
     "static/js/2.7777fa48.chunk.js": "/godadcerts/static/js/2.7777fa48.chunk.js",
     "static/js/2.7777fa48.chunk.js.map": "/godadcerts/static/js/2.7777fa48.chunk.js.map",
     "index.html": "/godadcerts/index.html",
-    "static/css/main.80c56064.chunk.css.map": "/godadcerts/static/css/main.80c56064.chunk.css.map",
+    "static/css/main.4cab743b.chunk.css.map": "/godadcerts/static/css/main.4cab743b.chunk.css.map",
     "static/js/2.7777fa48.chunk.js.LICENSE.txt": "/godadcerts/static/js/2.7777fa48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72335156.js",
     "static/js/2.7777fa48.chunk.js",
-    "static/css/main.80c56064.chunk.css",
+    "static/css/main.4cab743b.chunk.css",
     "static/js/main.d334d89a.chunk.js"
   ]
 }
